@@ -6,4 +6,7 @@
   "Noon": "Keskpäev",
   "Sunrise": "Päikesetõus",
   "Sunset": "Päikeseloojang"
+  "errors": {
+    "SunIntegrationNotFound": "Sidumine Sun puudub"
+  }
 }
